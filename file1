@@ -6,7 +6,7 @@ cout<<"Enter first number";
 cin>>a;
 cout<<"Entner second number";
 cin>>b;
-sum=a-b;
-cout<<"Diff is: "<<diff;
+product=a*b;
+cout<<"product is: "<<product;
 getch();
 }
