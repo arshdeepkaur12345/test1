@@ -1,12 +1,12 @@
 #include<iostream.h>
 void main()
 {
-int a,b,sum;
+int a,b,diff;
 cout<<"Enter first number";
 cin>>a;
 cout<<"Entner second number";
 cin>>b;
-sum=a+b;
-cout<<"Sum is: "<<sum;
+sum=a-b;
+cout<<"Diff is: "<<diff;
 getch();
 }
